@@ -1,5 +1,4 @@
 # Secure-Algorithms-and-Protocols-for-Virtual-Game-Rooms-and-Digital-Identity-Management
-# Project Overview: Secure Algorithms and Protocols for Virtual Game Rooms and Digital Identity Management
 
 This project focuses on designing and implementing critical security functionalities for a virtual game room platform. The goal is to ensure transparent and secure participation in online games, such as Bingo, by leveraging a continuous random string generation mechanism. Additionally, the project explores how to integrate a new, privacy-focused version of the Green Pass (GP 2.0), allowing players to authenticate securely without revealing unnecessary personal information.
 
